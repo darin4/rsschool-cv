@@ -38,6 +38,7 @@ I also run my pet-project.
 * Pobeda confectionery factory
   + Key account manager
 * Meat processing plant Vsevolozckiy
+  + Sales Manager
 ## Education
 * Institute of Law and Entrepreneurship, Pushkin
 + Management, Corporate Governance (Master's degree)
@@ -56,6 +57,7 @@ I also run my pet-project.
 + Certificate No. 101007735 for the program "Introduction to English grammar"
 + Certificate No. 101007845 for the program "Management"
 ## Extra Skills
+* Driving Lycense, *driving experience 15 y.*
 ### Languages
 + Russian
 + English (B2)
