@@ -1,0 +1,9 @@
+<!doctype css>
+h1 {
+    color: green;
+    border: 1px dotted black;
+  }
+  
+  p {
+    color: magenta;
+  }
