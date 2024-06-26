@@ -8,23 +8,31 @@ github: @darin4
 ## About Me
 I have been engaged in sales and customer management all my working life. 
 
-Now I want to change the vector of my development. 
+Since 2023 I decided to change the vector of my development. 
 
-I am learning html and css, listening to lectures, studying online. 
+I successfully completed course of automation QA in Red Rover School in 2024.
 
-I also run my pet-project.
+Now I'm tickled pink with the idea of being a web-developer.
+
+I've also been leading English club as a voluntere teacher, we meet twice a week online.
+
+I love my team and I love teaching them.
+
+I'm also running some projects as a PM and as a tester.
 ## Skills
 * the highest level of soft skills
 * negotiation skills
 * experience in concluding trade deals
 * focus on results
-* OpenOffice, MS Office, Deductor, 1C
+* OpenOffice, MS Office, Deductor, 1C, Puppeteer, Playwright, JS, HTML, CSS, Postman
 * trade management
 * Experience with federal networks
 * Experience with retail network
 * Competent speech
 ## Code Examples
 ```
+https://codepen.io/darin4/pen/yLWJZNo?editors=0010
+
 <select name="yammi">
 <option value='b'>Broccoli</option>
 <option value='z' selected>Zucchini</option>
@@ -40,6 +48,8 @@ I also run my pet-project.
 * Meat processing plant Vsevolozckiy
   + Sales Manager
 ## Education
+* Red Rover School
++ Automation QA (JS)
 * Institute of Law and Entrepreneurship, Pushkin
 + Management, Corporate Governance (Master's degree)
 * Institute of Law and Entrepreneurship, Pushkin
@@ -57,7 +67,7 @@ I also run my pet-project.
 + Certificate No. 101007735 for the program "Introduction to English grammar"
 + Certificate No. 101007845 for the program "Management"
 ## Extra Skills
-* Driving Lycense, *driving experience 15 y.*
+* Driving Lycense, *driving experience 17 y.*
 ### Languages
 + Russian
 + English (B2)
