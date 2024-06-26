@@ -30,9 +30,8 @@ I'm also running some projects as a PM and as a tester.
 * Experience with retail network
 * Competent speech
 ## Code Examples
-```
-Простой [тренажер по таблице умножения] (https://codepen.io/darin4/pen/yLWJZNo?editors=0010)
-```
+
+Простой![тренажер по таблице умножения](https://codepen.io/darin4/pen/yLWJZNo?editors=0010)
 
 ```
 <select name="yammi">
