@@ -31,8 +31,10 @@ I'm also running some projects as a PM and as a tester.
 * Competent speech
 ## Code Examples
 ```
-https://codepen.io/darin4/pen/yLWJZNo?editors=0010
+Простой [тренажер по таблице умножения] (https://codepen.io/darin4/pen/yLWJZNo?editors=0010)
+```
 
+```
 <select name="yammi">
 <option value='b'>Broccoli</option>
 <option value='z' selected>Zucchini</option>
