@@ -1,3 +1,96 @@
-style.css
-h1 {color: green; border: 1px dotted black;}
-p {color: magenta;}
+style.css html {
+  scroll-behavior: smooth scroll;
+}
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.body {
+  min-height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  display: block;
+}
+h2 {
+  text-shadow: 1px 1px lightgrey;
+}
+.header {
+  display: block;
+  unicode-bidi: isolate;
+  cursor: pointer;
+}
+.body {
+  font-family: "Roboto Slab Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  padding: 15px 25px;
+  justify-content: space-between;
+  color: rgb(32, 3, 53);
+  background-image: linear-gradient(#dbfcfa, #f3e9ec);
+}
+.navMenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(220, 199, 237);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.navList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10;
+  padding: 10;
+  list-style: none;
+}
+ul {
+  display: block;
+  list-style-type: circle;
+  margin-block-start: 2em;
+  margin-block-end: 2em;
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+  padding-inline-start: 20px;
+  unicode-bidi: isolate;
+}
+.imgMy {
+  display: block;
+  border-radius: 50%;
+  width: 240px;
+  height: 240px;
+  margin: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.codeExample {
+  background-color: beige;
+}
+.footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-radius: 10px;
+  border-style: ridge;
+  /*justify-content: space-between;*/
+  align-items: center;
+  padding: 20px;
+  color: white;
+  background-color: rgb(49, 47, 47);
+}
+.footer__github {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding-left: 50px;
+}
+.footer__rss {
+  justify-self: end;
+  height: 32px;
+  width: 86px;
+  cursor: pointer;
+  background-color: yellow;
+  box-shadow: 5px 5px 5px 5px lightgrey;
+}
