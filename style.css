@@ -90,6 +90,9 @@ ul {
   color: white; 
   text-align: left;
 }
+.footer__github img {
+  border-radius: 50%;
+}
 .footer__rss {
   justify-self: end;
   height: 32px;
