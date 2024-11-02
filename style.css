@@ -86,6 +86,10 @@ ul {
   cursor: pointer;
   padding-left: 50px;
 }
+.footer__github p {
+  color: white; 
+  text-align: left;
+}
 .footer__rss {
   justify-self: end;
   height: 32px;
